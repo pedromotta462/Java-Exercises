@@ -1,4 +1,4 @@
- public class testandojava {
+public class testandojava {
 
     protected static float divide(int a, float b){
         return a/b;
@@ -43,4 +43,4 @@
         System.out.println("\n\n");
         antigomain();
      }
- }
+}
