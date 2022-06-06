@@ -1,4 +1,4 @@
-## Exercícios para exercitar Java 🥸☕🍵
+## Exercícios para treinar Java 🥸☕🍵
 
  - Conceitos básicos;
  - if else, for, while, etc;
